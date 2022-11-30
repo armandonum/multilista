@@ -1,0 +1,10 @@
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\bin\Debug\MultBrigada.exe.config
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\bin\Debug\MultBrigada.exe
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\bin\Debug\MultBrigada.pdb
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\obj\Debug\MultBrigada.csproj.AssemblyReference.cache
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\obj\Debug\MultBrigada.Form1.resources
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\obj\Debug\MultBrigada.Properties.Resources.resources
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\obj\Debug\MultBrigada.csproj.GenerateResource.cache
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\obj\Debug\MultBrigada.csproj.CoreCompileInputs.cache
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\obj\Debug\MultBrigada.exe
+C:\Users\Armando\Source\Repos\MultBrigada\MultBrigada\obj\Debug\MultBrigada.pdb
